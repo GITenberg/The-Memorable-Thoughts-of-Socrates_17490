@@ -1,0 +1,47 @@
+_repo: The-Memorable-Thoughts-of-Socrates_17490
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Bysshe, Edward, active 1702-1712
+    gutenberg_agent_id: '37455'
+    url: http://www.gutenberg.org/2009/agents/37455
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Xenophon
+    alias: Ξενοφών
+    birthdate: -431
+    deathdate: -355
+    gutenberg_agent_id: '543'
+    url: http://www.gutenberg.org/2009/agents/543
+    wikipedia: http://en.wikipedia.org/wiki/Xenophon
+  editor:
+    agent_name: Morley, Henry
+    birthdate: 1822
+    deathdate: 1894
+    gutenberg_agent_id: '1355'
+    url: http://www.gutenberg.org/2009/agents/1355
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
+description: Cover; Title Page; Copyright Page; Table of Contents; Introduction; BOOK
+  I; Chapter I.; Chapter II.; Chapter III.; Chapter IV.; Chapter V.; Chapter VI.;
+  Chapter VII.; BOOK II; Chapter I.; Chapter II.; Chapter III.; Chapter IV.; Chapter
+  V.; Chapter VI.; Chapter VII.; Chapter VIII.; Chapter IX.; Chapter X.; BOOK III;
+  Chapter I.; Chapter II.; Chapter III.; Chapter IV.; Chapter V.; Chapter VI.; Chapter
+  VII.; Chapter VIII.; Chapter IX.; Chapter X.; Chapter XI.; Chapter XII.; Chapter
+  XIII.; Chapter XIV.; BOOK IV; Chapter I.; Chapter II.; Chapter III.; Chapter IV.;
+  Chapter V.; Chapter VI.
+gutenberg_issued: '2006-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17490'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Socrates, 470 BC-399 BC'
+- !lcc 'B'
+title: The Memorable Thoughts of Socrates
+url: http://www.gutenberg.org/ebooks/17490
